@@ -1,0 +1,20 @@
+{
+  "name": "fs-skills",
+  "owner": {
+    "name": "Furkan Sönmez"
+  },
+  "description": "Furkan's catalog of Claude skills for SAP development.",
+  "plugins": [
+    {
+      "name": "fiori-design",
+      "source": "./plugins/fiori-design",
+      "description": "Aligns freestyle SAPUI5 development with the SAP Fiori Design Guidelines (Horizon).",
+      "author": {
+        "name": "Furkan Sönmez"
+      },
+      "license": "MIT",
+      "keywords": ["sap", "fiori", "ui5", "sapui5", "openui5", "design", "horizon", "ux"],
+      "category": "design"
+    }
+  ]
+}

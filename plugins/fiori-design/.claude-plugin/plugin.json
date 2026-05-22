@@ -1,0 +1,10 @@
+{
+  "name": "fiori-design",
+  "description": "Aligns freestyle SAPUI5/OpenUI5 apps with the SAP Fiori Design Guidelines — floorplans, layout, Horizon theming, accessibility, and UI text. Use when hand-writing UI5 views, controllers, or fragments.",
+  "author": {
+    "name": "Furkan Sönmez"
+  },
+  "homepage": "https://github.com/sonmezfurkan/fs-skills",
+  "repository": "https://github.com/sonmezfurkan/fs-skills",
+  "license": "MIT"
+}
