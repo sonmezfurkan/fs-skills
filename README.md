@@ -1,6 +1,6 @@
 # fs-skills
 
-Furkan's catalog of [Claude Code](https://code.claude.com/docs) skills for SAP development.
+My catalog of [Claude Code](https://code.claude.com/docs) skills for SAP development.
 
 ## Install
 
